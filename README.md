@@ -14,7 +14,7 @@
 
 ##### 2.工作原理
 
-![](C:\Users\18740\Downloads\ba362ff207097dc35ca873f9a16bcda21a96b278.svg)
+![](https://github.com/from901/from_pai_calculator/blob/main/ba362ff207097dc35ca873f9a16bcda21a96b278.svg)
 
 这个新公式是 [π的莱布尼茨公式](https://zh.wikipedia.org/wiki/Π的莱布尼茨公式)(π/4 = arctan 1)的变形，它的好处是它显着提高了收敛速度，这使其成为一种更实用的计算方法。
 
@@ -26,7 +26,9 @@
 
 **3.演示**
 
-![](D:\train\ASuna\png\1705543401078 00_00_00-00_00_30.gif)
+![](https://github.com/from901/from_pai_calculator/blob/main/1705543401078%2000_00_00-00_00_30.gif)
+
+
 
 ##### 4.后记
 
