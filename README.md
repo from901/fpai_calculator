@@ -14,6 +14,8 @@
 
 
 
+------
+
 ##### 2.工作原理
 
 ![](https://github.com/from901/from_pai_calculator/blob/main/ba362ff207097dc35ca873f9a16bcda21a96b278.svg)
@@ -24,19 +26,27 @@
 
 > *摘自Wikipedia.com*
 
+------
 
-
-**3.演示**
+##### **3.演示**
 
 ![](https://github.com/from901/from_pai_calculator/blob/main/1705543401078%2000_00_00-00_00_30.gif)
 
-
+------
 
 ##### 4.后记
 
-这是本人第一次真正编写一个小程序，所以代码有不足之处
+这是本人第一次真正编写一个小程序
 
-bug:
+为练手作
+
+所以代码有不足之处，请谅解
+
+------
+
+
+
+##### 5.bug:
 
 - [x] #1：gui未响应
 
